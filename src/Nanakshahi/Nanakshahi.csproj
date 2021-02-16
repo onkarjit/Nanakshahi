@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFrameworks>net5.0;netcoreapp3.1;netcoreapp3.0;netcoreapp2.2</TargetFrameworks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Nanakshahi</Title>
+        <Authors>Onkarjit Singh</Authors>
+        <Description>C# library to convert Nanakshahi date to and from Gregorian date. This library makes it easy to work with Nanakshahi dates.</Description>
+        <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/onkarjit/Nanakshahi</RepositoryUrl>
+        <LangVersion>latest</LangVersion>
+        <Copyright>Onkarjit Singh</Copyright>
+        <PackageVersion>1.1.2</PackageVersion>
+    </PropertyGroup>
+</Project>
